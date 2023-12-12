@@ -1,4 +1,5 @@
 Etapas do projeto:
+![diagrama.webp](https://raw.githubusercontent.com/julia-freitas/TCC-2023/main/diagrama.webp)
 
 * Data Collection
     * leitura de arquivo
