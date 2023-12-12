@@ -1,3 +1,5 @@
+Etapas do projeto:
+
 * Data Collection
     * leitura de arquivo
 
