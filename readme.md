@@ -1,19 +1,19 @@
-Etapas do projeto:
+## Etapas do projeto:
 ![diagrama.webp](https://raw.githubusercontent.com/julia-freitas/TCC-2023/main/diagrama.webp)
 
-* Data Collection
-    * leitura de arquivo
+### Data Collection
+    - leitura de arquivo
 
-* Data Preparation
+### Data Preparation
 
-    * EDA
-        * Estudo de correlação das variáveis
-        * histograma das doenças em comorbidade
-        * histograma de agrupamento de idades
-        * histograma idades x genero
+    - EDA
+        - Estudo de correlação das variáveis
+        - histograma das doenças em comorbidade
+        - histograma de agrupamento de idades
+        - histograma idades x genero
 
-    * Data preprocessing (Transformação de dados)
-        * Dados nulos (dados faltantes)
+    - Data preprocessing (Transformação de dados)
+        - Dados nulos (dados faltantes)
         * String em coluna numérica (como tratar?)
         * Normalização dos Dados  - Normalization vs Standardization
         * Balanceamento das Classes (SMOTE e variantes)
@@ -22,12 +22,12 @@ Etapas do projeto:
     * Data Splitting
 
 
-* Treinamento dos modelos
+### Treinamento dos modelos
     * Escolha dos algoritmos
     * Overfit e regularização
     * Tuning de Hiperparametros
 
-* Avaliação dos modelos
+### Avaliação dos modelos
     
     * Avaliação dos algoritmos
         * Matriz de Confusão (porcentagens de TP, FP, TN, FN)
